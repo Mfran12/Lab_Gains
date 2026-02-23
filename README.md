@@ -11,8 +11,7 @@ Located in the heart of Muscle Shoals, Alabama, Raise The Bar Gym has been empow
 
 ## Wireframe
 
-![Wireframe]((https://github.com/Mfran12/Lab_Gains/blob/main/RaisetheBarGymWireframe.png))
-
+!
 ## System Requirements
 - [x] Implement all pictures provided by business
 - [ ] Ensure that aesthetic follows established brand image
