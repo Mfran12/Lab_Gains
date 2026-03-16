@@ -1,6 +1,6 @@
 
 # Lab_Gains
-# [view the Live Gym Website](https://mfran12.github.io/Lab_Gains/)
+# **Live Site:** [Raise The Bar Gym](https://mfran12.github.io/Lab_Gains/)
 
 The homepage design project for CIS-209 [Spring 2026]- Solo Project (Bussiness Name- RaiseTheBarGym)
 
