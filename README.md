@@ -1,6 +1,6 @@
 
 # Lab_Gains
-# [Click here to view the Live Gym Website](https://mfran12.github.io/Lab_Gains/)
+# [view the Live Gym Website](https://mfran12.github.io/Lab_Gains/)
 
 The homepage design project for CIS-209 [Spring 2026]- Solo Project (Bussiness Name- RaiseTheBarGym)
 
@@ -16,8 +16,8 @@ Located in the heart of Muscle Shoals, Alabama, Raise The Bar Gym has been empow
 ---
 
 ## Technical Requirements
-- **Languages:** This website will be built using HTML5 and CSS3.
+- **Languages:** This website will be built by using HTML5 and CSS3.
 - **Hosting:** The project will be hosted and live-synced via [GitHub Pages](https://mfran12.github.io/Lab_Gains/).
-- **Frameworks:** No external frameworks (like Bootstrap) are being used for this initial design phase.
+- **Frameworks:** No external frameworks (like Bootstrap) are being used for this design phase.
 - **APIs:** None.
-- **Version Control:** All project milestones and features are managed through Git and GitHub Issues.
+- **Version Control:** All project milestones and features are altered through Git and GitHub Issues.
