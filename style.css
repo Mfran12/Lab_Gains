@@ -1,3 +1,41 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 5%;
+    background-color: #1a1a1a;
+    color: white;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.nav-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #d40000;
+    /* Gym Red */
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+}
+
+.nav-links li {
+    margin-left: 20px;
+}
+
+.nav-links a {
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    color: #d40000;
+}
+
 /* General Reset */
 * {
     margin: 0;
@@ -8,7 +46,7 @@
 
 /* Hero Section Styling */
 .hero {
-    background: #222; /* Placeholder color - you can add an image later */
+    background: #222;
     height: 80vh;
     display: flex;
     justify-content: center;
@@ -18,7 +56,8 @@
 }
 
 .hero-overlay {
-    background: rgba(0, 0, 0, 0.6); /* Makes text easier to read */
+    background: rgba(0, 0, 0, 0.6);
+    /* Makes text easier to read */
     width: 100%;
     height: 100%;
     display: flex;
@@ -38,7 +77,8 @@
 }
 
 .cta-button {
-    background-color: #d40000; /* Gym Red */
+    background-color: #d40000;
+    /* Gym Red */
     color: white;
     padding: 15px 30px;
     text-decoration: none;
@@ -49,4 +89,65 @@
 
 .cta-button:hover {
     background-color: #aa0000;
+}
+.about-section {
+    padding: 80px 10%;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+}
+
+.about-section h2 {
+    color: #d40000; /* Gym Red */
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    max-width: 800px;
+    margin: 0 auto 20px;
+}
+.membership-section {
+    padding: 80px 5%;
+    background-color: #111;
+    color: white;
+    text-align: center;
+}
+
+.plans-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.plan-card {
+    background: #222;
+    padding: 30px;
+    border: 1px solid #444;
+    width: 300px;
+    border-radius: 8px;
+}
+
+.plan-card.featured {
+    border: 2px solid #d40000;
+}
+
+.plan-card h3 {
+    color: #d40000;
+    margin-bottom: 15px;
+}
+
+.price {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.plan-card ul {
+    list-style: none;
+    padding: 0;
+    line-height: 2;
 }
