@@ -1,5 +1,7 @@
 
 # Lab_Gains
+Click here to view the Live Gym Website
+
 The homepage design project for CIS-209 [Spring 2026]- Solo Project (Bussiness Name- RaiseTheBarGym)
 
 
