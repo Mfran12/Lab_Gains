@@ -21,3 +21,22 @@ Located in the heart of Muscle Shoals, Alabama, Raise The Bar Gym has been empow
 - **Frameworks:** No external frameworks (like Bootstrap) are being used for this design phase.
 - **APIs:** None.
 - **Version Control:** All project milestones and features are altered through Git and GitHub Issues.
+
+
+
+__________________________________________________________________
+| [Logo]          Home  Study  Jobs  Roommates  Coupons    [Search] |
+|__________________________________________________________________|
+|                                                                  |
+|   [ Welcome, Student! ] -> Hero Section with "Add Task" Button   |
+|__________________________________________________________________|
+|                    |                        |                    |
+|  [ Upcoming ]      |  [ Quick Tools ]       | [ Featured Jobs ]  |
+|  - Math Quiz (2h)  |  - Scan PDF            | - Babysitting $20  |
+|  - Essay Due (Fri) |  - Record Lecture      | - Library Asst.    |
+|____________________|________________________|____________________|
+|                                                                  |
+|  [ Student Discounts Carousel - "Save 10% at Local Cafe" ]        |
+|__________________________________________________________________|
+| [Footer: About | Contact | GitHub Link]                          |
+|__________________________________________________________________|
